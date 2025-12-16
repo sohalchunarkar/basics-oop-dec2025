@@ -10,16 +10,9 @@ public abstract class AbstractionDemo {
         System.out.println("demo2 concrete method inside AbstractionDemo class");
     }
 
-    public void demo33(){
-        System.out.println("hellow this isnew change");
-    }
-
     public abstract void demo3();
 
     public abstract void demo4();
 
-    public void someghint()
-    {
-        
-    }
+ 
 }
