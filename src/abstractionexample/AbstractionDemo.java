@@ -17,4 +17,9 @@ public abstract class AbstractionDemo {
     public abstract void demo3();
 
     public abstract void demo4();
+
+    public void someghint()
+    {
+        
+    }
 }
